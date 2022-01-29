@@ -76,6 +76,7 @@ source $ZSH/oh-my-zsh.sh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
+path+=('/home/mwyerman/Local/lua-language-server/bin/')
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8
@@ -108,5 +109,4 @@ alias cd..='cd ..'
 
 export XDG_CONFIG_HOME="${XDG_CONFIG_HOME:-$HOME/.config}"
 
-alias luamake=/home/mwyerman/Downloads/lua-language-server/3rd/luamake/luamake
 alias config='/usr/bin/git --git-dir=/home/mwyerman/.cfg/ --work-tree=/home/mwyerman'
