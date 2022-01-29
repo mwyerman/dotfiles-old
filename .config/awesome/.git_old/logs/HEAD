@@ -1,0 +1,53 @@
+0000000000000000000000000000000000000000 ed4f45400b6afb57aca92b2ac4532fe5f8c91879 Max Wyerman <mwyerman@gmail.com> 1636833962 -0500	commit (initial): Initial commit
+ed4f45400b6afb57aca92b2ac4532fe5f8c91879 b1626d5790a1b93d34d6332953d93871d8b5b035 Max Wyerman <mwyerman@gmail.com> 1636834052 -0500	commit: Fix wallpaper not displaying
+b1626d5790a1b93d34d6332953d93871d8b5b035 279654f90265ff9b7ef53c93f1da00d8e4e9e14a Max Wyerman <mwyerman@gmail.com> 1636839965 -0500	commit: Change order of layouts and terminal
+279654f90265ff9b7ef53c93f1da00d8e4e9e14a 279654f90265ff9b7ef53c93f1da00d8e4e9e14a Max Wyerman <mwyerman@gmail.com> 1636839972 -0500	checkout: moving from master to modular-config
+279654f90265ff9b7ef53c93f1da00d8e4e9e14a 137f767d8644d7b7dc286255c7db8a08e0a64a54 Max Wyerman <mwyerman@gmail.com> 1636840054 -0500	commit: Create skeleton rc.lua
+137f767d8644d7b7dc286255c7db8a08e0a64a54 c940320be34a4c99ab06c6cc178e7588058ec8e1 Max Wyerman <mwyerman@gmail.com> 1636840181 -0500	commit: Add empty files
+c940320be34a4c99ab06c6cc178e7588058ec8e1 279654f90265ff9b7ef53c93f1da00d8e4e9e14a Max Wyerman <mwyerman@gmail.com> 1636840250 -0500	checkout: moving from modular-config to master
+279654f90265ff9b7ef53c93f1da00d8e4e9e14a 279654f90265ff9b7ef53c93f1da00d8e4e9e14a Max Wyerman <mwyerman@gmail.com> 1636840522 -0500	checkout: moving from master to modular
+279654f90265ff9b7ef53c93f1da00d8e4e9e14a 9ce299fca7cc888826124385045c43b180846986 Max Wyerman <mwyerman@gmail.com> 1636840665 -0500	commit: Initial structure with defaults
+9ce299fca7cc888826124385045c43b180846986 6b4abaa6aa560ec975e28538aa592097e4e25eec Max Wyerman <mwyerman@gmail.com> 1636840898 -0500	commit: Update layouts
+6b4abaa6aa560ec975e28538aa592097e4e25eec 31fdb4e7e2f50eaaa4d8746bf419cf6a0d117da1 Max Wyerman <mwyerman@gmail.com> 1636841007 -0500	commit: Remove menu
+31fdb4e7e2f50eaaa4d8746bf419cf6a0d117da1 01428e68ab69e4f77d85209428f776f5ccc3c826 Max Wyerman <mwyerman@gmail.com> 1636851858 -0500	commit: Remove right click menu
+01428e68ab69e4f77d85209428f776f5ccc3c826 19e32ae592f7818a36dd966322110283c8d1cad1 Max Wyerman <mwyerman@gmail.com> 1636851868 -0500	commit: Change terminal to kitty
+19e32ae592f7818a36dd966322110283c8d1cad1 85220ca00f39efff6976b3bb35556aadd35509bf Max Wyerman <mwyerman@gmail.com> 1636851888 -0500	commit: Add wallpaper path (in comment)
+85220ca00f39efff6976b3bb35556aadd35509bf 9e5a120ef0531053c832dacd102769335b943174 Max Wyerman <mwyerman@gmail.com> 1636852361 -0500	commit: Remove prompt and add rofi
+9e5a120ef0531053c832dacd102769335b943174 50ea90a56fb9574bbe599341f6e43810d67a0f92 Max Wyerman <mwyerman@gmail.com> 1636852450 -0500	commit: Bind mod+space to rofi
+50ea90a56fb9574bbe599341f6e43810d67a0f92 a98a3f31dc7f6330729f974673f21b84d9d9d7d0 Max Wyerman <mwyerman@gmail.com> 1636852491 -0500	commit: Add formatting to keybindings
+a98a3f31dc7f6330729f974673f21b84d9d9d7d0 36cab579b7af8692dd59875aac8717fb5cc2a663 Max Wyerman <mwyerman@gmail.com> 1636852498 -0500	commit: Add firefox binding
+36cab579b7af8692dd59875aac8717fb5cc2a663 4a80000e84d8720db2ac9b1fa538dfa1de86c97c Max Wyerman <mwyerman@gmail.com> 1636852705 -0500	commit: Add pcmanfm binding
+4a80000e84d8720db2ac9b1fa538dfa1de86c97c 738d72829f340df18f234a9fb4158eb2cef4f647 Max Wyerman <mwyerman@gmail.com> 1636852808 -0500	commit: Make common files a config option
+738d72829f340df18f234a9fb4158eb2cef4f647 fcaf28b57c43cb13fd0789cbbaece2cb9a03caf3 Max Wyerman <mwyerman@gmail.com> 1636853106 -0500	commit: Remove menubar binding
+fcaf28b57c43cb13fd0789cbbaece2cb9a03caf3 419c00a41d83107ce81c6fc27d10aec16c910416 Max Wyerman <mwyerman@gmail.com> 1636853836 -0500	commit: Readjust system keybindings
+419c00a41d83107ce81c6fc27d10aec16c910416 2105c3359897d7333e83341d98da91921d2d2f5d Max Wyerman <mwyerman@gmail.com> 1636854801 -0500	commit: Apply layouts
+2105c3359897d7333e83341d98da91921d2d2f5d 8e1263ee67ddc823ec97741aa86fe0130a5757d7 Max Wyerman <mwyerman@gmail.com> 1636855185 -0500	commit: Add gaps
+8e1263ee67ddc823ec97741aa86fe0130a5757d7 85585836cd636f5360f73f717c30a32b56a48ba5 Max Wyerman <mwyerman@gmail.com> 1636855192 -0500	commit: Disable titlebars
+85585836cd636f5360f73f717c30a32b56a48ba5 b3c06f0a989156f8b6549ae774ee7cd746d7d31a Max Wyerman <mwyerman@gmail.com> 1636855419 -0500	commit: Add option for nitrogen wallpaper
+b3c06f0a989156f8b6549ae774ee7cd746d7d31a 7029b49d9665ea864dbe6c3fb74f0d5ff78eb9f4 Max Wyerman <mwyerman@gmail.com> 1636856413 -0500	commit: Modify statusbar
+7029b49d9665ea864dbe6c3fb74f0d5ff78eb9f4 f3ece9c83cfc419bfeb194565c735f09df6960cf Max Wyerman <mwyerman@gmail.com> 1637874695 -0500	commit: Update layouts
+f3ece9c83cfc419bfeb194565c735f09df6960cf ad520c8a9bf58bfa57ad2a47e7db3f18953ae48e Max Wyerman <mwyerman@gmail.com> 1637874727 -0500	commit (amend): Remove extra tiling layout
+ad520c8a9bf58bfa57ad2a47e7db3f18953ae48e 0216da5b572380259f5f3bdc5403f15f918c9172 Max Wyerman <mwyerman@gmail.com> 1637874732 -0500	commit: Change tags to spelled out numbers
+0216da5b572380259f5f3bdc5403f15f918c9172 3d023e8ba0c8c0f3fc4e26754ee9e06b0c41a77d Max Wyerman <mwyerman@gmail.com> 1637874775 -0500	commit: Update taglist and tasklist layout
+3d023e8ba0c8c0f3fc4e26754ee9e06b0c41a77d 3d023e8ba0c8c0f3fc4e26754ee9e06b0c41a77d Max Wyerman <mwyerman@gmail.com> 1637874780 -0500	checkout: moving from modular to test-theme
+3d023e8ba0c8c0f3fc4e26754ee9e06b0c41a77d 875fa233c0991b4057c6fd050b4304c7d59e4f57 Max Wyerman <mwyerman@gmail.com> 1637874786 -0500	commit: Add theme
+875fa233c0991b4057c6fd050b4304c7d59e4f57 3d023e8ba0c8c0f3fc4e26754ee9e06b0c41a77d Max Wyerman <mwyerman@gmail.com> 1637874789 -0500	checkout: moving from test-theme to modular
+3d023e8ba0c8c0f3fc4e26754ee9e06b0c41a77d 6f5ef7048235eb32864ec556d5a95ad3f2ed60ef Max Wyerman <mwyerman@gmail.com> 1637876415 -0500	commit: Create basic tokyonight theme
+6f5ef7048235eb32864ec556d5a95ad3f2ed60ef bef249c386503414a8fd37762dd1dbc9f3c4c016 Max Wyerman <mwyerman@gmail.com> 1637877188 -0500	revert: Revert "Remove menu"
+bef249c386503414a8fd37762dd1dbc9f3c4c016 4923c436e2221020069859715bdc040d8db77f60 Max Wyerman <mwyerman@gmail.com> 1637877863 -0500	commit: Add icon to menu
+4923c436e2221020069859715bdc040d8db77f60 1b142b82472b45dba2ae479b19a7e225ae763713 Max Wyerman <mwyerman@gmail.com> 1637879150 -0500	commit: Change arch icon to svg and set color
+1b142b82472b45dba2ae479b19a7e225ae763713 eb86e51f08cc1720600785ba666d978311293461 Max Wyerman <mwyerman@gmail.com> 1637879161 -0500	commit: Improve spacing in status bar
+eb86e51f08cc1720600785ba666d978311293461 eb86e51f08cc1720600785ba666d978311293461 Max Wyerman <mwyerman@gmail.com> 1637887302 -0500	checkout: moving from modular to layoutlist-testing
+eb86e51f08cc1720600785ba666d978311293461 eb86e51f08cc1720600785ba666d978311293461 Max Wyerman <mwyerman@gmail.com> 1637887305 -0500	checkout: moving from layoutlist-testing to modular
+eb86e51f08cc1720600785ba666d978311293461 eb86e51f08cc1720600785ba666d978311293461 Max Wyerman <mwyerman@gmail.com> 1637887310 -0500	checkout: moving from modular to layoutlist-testing
+eb86e51f08cc1720600785ba666d978311293461 8fe3f91d4e149eb5a575998bb7aa5d9eb3c5372d Max Wyerman <mwyerman@gmail.com> 1637887324 -0500	commit: Change layoutbox to layout list
+8fe3f91d4e149eb5a575998bb7aa5d9eb3c5372d 279654f90265ff9b7ef53c93f1da00d8e4e9e14a Max Wyerman <mwyerman@gmail.com> 1637887329 -0500	checkout: moving from layoutlist-testing to master
+279654f90265ff9b7ef53c93f1da00d8e4e9e14a 875fa233c0991b4057c6fd050b4304c7d59e4f57 Max Wyerman <mwyerman@gmail.com> 1637887333 -0500	checkout: moving from master to test-theme
+875fa233c0991b4057c6fd050b4304c7d59e4f57 eb86e51f08cc1720600785ba666d978311293461 Max Wyerman <mwyerman@gmail.com> 1637887334 -0500	checkout: moving from test-theme to modular
+eb86e51f08cc1720600785ba666d978311293461 c6774353c7e09e99b2c197b8eb6d08b3a4f02de6 Max Wyerman <mwyerman@gmail.com> 1643482291 -0500	commit: Update launcher
+c6774353c7e09e99b2c197b8eb6d08b3a4f02de6 4ea161deb4dea833bb7904e81a52a89f14f82730 Max Wyerman <mwyerman@gmail.com> 1643482303 -0500	commit: Remove layout from menubar
+4ea161deb4dea833bb7904e81a52a89f14f82730 4ea161deb4dea833bb7904e81a52a89f14f82730 Max Wyerman <mwyerman@gmail.com> 1643482352 -0500	checkout: moving from modular to modular-sound
+4ea161deb4dea833bb7904e81a52a89f14f82730 4ea161deb4dea833bb7904e81a52a89f14f82730 Max Wyerman <mwyerman@gmail.com> 1643483148 -0500	checkout: moving from modular-sound to modular
+4ea161deb4dea833bb7904e81a52a89f14f82730 9811306d006c0e16b57290603534ca46a2ef91eb Max Wyerman <mwyerman@gmail.com> 1643483160 -0500	commit: Add cpu widget
+9811306d006c0e16b57290603534ca46a2ef91eb 139cc659a3a2f14777516058b635e0c302dc96c8 Max Wyerman <mwyerman@gmail.com> 1643483633 -0500	commit: Add stylua.toml and reformat
+139cc659a3a2f14777516058b635e0c302dc96c8 2c4c8fffc379cb9f2f32223caf5f0f6fa01e8bc9 Max Wyerman <mwyerman@gmail.com> 1643483923 -0500	commit: Add filesystem widget
